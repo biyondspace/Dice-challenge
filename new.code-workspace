@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../new"
+		},
+		{
+			"path": "../../DOM"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../jQuery"
+		},
+		{
+			"path": "../../Backend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Backend"
+	}
+}
